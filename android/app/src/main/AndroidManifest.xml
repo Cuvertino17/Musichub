@@ -38,8 +38,6 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-5216707352751728~5911087013" />
+         
     </application>
 </manifest>
